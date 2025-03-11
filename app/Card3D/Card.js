@@ -1,6 +1,7 @@
 "use client";
 import React from "react";
 import { MotionCanvas, motion } from "framer-motion-3d";
+import { motion } from "framer-motion";
 
 import { Canvas } from "@react-three/fiber";
 import { BoxGeometry, MeshPhongMaterial } from "three";
