@@ -196,7 +196,7 @@ const MouseFollower = () => {
         }}
       >
         <div 
-          className="w-60 h-60 rounded-full opacity-30 blur-2xl bg-gradient-to-r from-purple-600 via-fuchsia-500 to-blue-400"
+          className="w-60 h-60 rounded-full opacity-20 blur-2xl bg-gradient-to-r from-purple-600 via-fuchsia-500 to-blue-400"
         />
       </motion.div>
       
