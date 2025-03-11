@@ -1,0 +1,35 @@
+.header {
+    position: absolute;
+    right: 40px;
+    top:50px;
+    @apply lg:hidden inline-block md:right-[100px] ;
+    z-index: 999;
+    
+}
+.menu{
+    width:480px;
+    height: 650px;
+    background-color: #c9fd74;
+    border-radius: 25px;
+
+}
+.nav
+{
+    height: 100%;
+    padding:60px 40px 50px  40px;
+    box-sizing: border-box;
+}
+
+.navBody{
+    display: flex;
+    flex-direction: column;
+    gap:5px;
+    
+}
+
+.navBody div{
+        color:black;
+        font-size: 32px;
+
+    
+}
